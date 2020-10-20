@@ -4,7 +4,7 @@ Created on Tue Sep 29 09:28:49 2020
 
 @author: luc_e
 """
- this is a test
+
 import os, shutil
 from os.path import expanduser
 import setuptools
